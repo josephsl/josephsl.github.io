@@ -1,12 +1,12 @@
 {
-	"active": {
-		"wintenApps": {
-			"summary": "Windows 10 App Essentials",
-			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"updateKey": "w10",
-			"minimumNVDAVersion": "2020.4",
-			"lastTestedNVDAVersion": "2021.1",
-			"minimumWindowsVersion": "10.0.19041",
-		}
-	}
+ "active": {
+  "wintenApps": {
+   "summary": "Windows 10 App Essentials",
+   "author": "Joseph Lee <joseph.lee22590@gmail.com>",
+   "updateKey": "w10",
+   "minimumNVDAVersion": "2020.4",
+   "lastTestedNVDAVersion": "2021.1",
+   "minimumWindowsVersion": "10.0.19041",
+  }
+ }
 }
