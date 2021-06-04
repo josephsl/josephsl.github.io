@@ -1,12 +1,139 @@
 {
 	"active": {
+		"Access8Math": {
+			"summary": "Access8Math",
+			"author": "Tseng Woody <tsengwoody.tw@gmail.com>",
+			"addonKey": "access8math",
+			"minimumNVDAVersion": [2017, 3, 0],
+			"lastTestedNVDAVersion": [2020, 3, 0]
+		},
+		"addonsHelp": {
+			"summary": "Add-ons documentation",
+			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>, Zougane, Remy and Abdel",
+			"addonKey": "addonshelp",
+			"minimumNVDAVersion": [
+				2017,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				3,
+				0
+			]
+		},
+		"addonUpdater": {
+			"summary": "Add-on Updater",
+			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
+			"addonKey": "nvda3208",
+			"minimumNVDAVersion": [
+				2020,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			]
+		},
+		"audioChart": {
+			"summary": "AudioChart",
+			"author": "Tony Malykh <anton.malykh@gmail.com>",
+			"addonKey": "audiochart",
+			"minimumNVDAVersion": [
+				2019,
+				2,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				3,
+				0
+			]
+		},
+		"AudioThemes3D": {
+			"summary": "Audio Themes",
+			"author": "Musharraf Omer<ibnomer2011@hotmail.com>",
+			"addonKey": "ath",
+			"minimumNVDAVersion": [
+				2018,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2019,
+				3,
+				0
+			]
+		},
 		"wintenApps": {
 			"summary": "Windows 10 App Essentials",
-			"author": "Joseph Lee <joseph.lee22590@gmail.com>",
-			"updateKey": "w10",
-			"minimumNVDAVersion": "2020.4",
-			"lastTestedNVDAVersion": "2021.1",
-			"minimumWindowsVersion": "10.0.19041"
+			"author": "Joseph Lee <joseph.lee22590@gmail.com>, Derek Riemer <driemer.riemer@gmail.com> and others",
+			"addonKey": "w10",
+			"minimumNVDAVersion": [
+				2020,
+				4,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				1,
+				0
+			],
+			"minimumWindowsVersion": "10.0.19042"
+		},
+		"winWizard": {
+			"summary": "Win Wizard",
+			"author": "Oriol Gomez <ogomez.s92@gmail.com>, \u0141ukasz Golonka <lukasz.golonka@mailbox.org>",
+			"addonKey": "winwizard",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				4,
+				0
+			]
+		},
+		"wordCount": {
+			"summary": "Count elements of the selected text",
+			"author": "Rui Fontes <rui.fontes@tiflotecnia.com>",
+			"addonKey": "wc",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2020,
+				1,
+				0
+			]
+		},
+		"wordNav": {
+			"summary": "WordNav",
+			"author": "Tony Malykh <anton.malykh@gmail.com>",
+			"addonKey": "wordnav",
+			"minimumNVDAVersion": [
+				2019,
+				3,
+				0
+			],
+			"lastTestedNVDAVersion": [
+				2021,
+				3,
+				0
+			]
+		},
+		"zoomEnhancements": {
+			"summary": "Zoom Enhancements",
+			"author": "Mohammad Suliman <mohmad.s93@gmail.com>, Eilana Benish <benish.ilana@gmail.com>",
+			"addonKey": "zoom",
+			"minimumNVDAVersion": [0, 0, 0],
+			"lastTestedNVDAVersion": [2020, 2, 0]
 		}
 	}
 }
